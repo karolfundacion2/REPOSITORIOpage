@@ -1,0 +1,31 @@
+#iconsworlds{
+    margin-left: 20px;
+}
+#tamM{
+    width: 255px;
+    height: 255px;
+}
+#m1{
+    background-image: url(../juegos_software/prin_juegos/FondoM1.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+}
+.jm1{
+    width: 32%;
+    height: 700x;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+#m2{
+    background-image: url(../juegos_software/prin_juegos/FondoM1.png);
+    background-repeat: no-repeat;
+}
+#m3{
+    background-image: url(../juegos_software/prin_juegos/FondoM1.png);
+    background-repeat: no-repeat;
+}
+#m4{
+    background-image: url(../juegos_software/prin_juegos/FondoM1.png);
+    background-repeat: no-repeat;
+}
